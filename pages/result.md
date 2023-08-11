@@ -1,0 +1,9 @@
+- consequence *n.*结果，后果；重要性，价值
+	- sequence *n.*顺序，次序；连续事件（或动作、事物）；*v.*按顺序排列；测定序列；
+- outcome
+	- predict the outcome 预见结果
+	- the final outcome 最终结果
+- fallout
+	- a political fallout 政治影响
+- aftermath n 后果，余波
+	- in the aftermath of a war 战后

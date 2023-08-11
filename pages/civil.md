@@ -1,0 +1,20 @@
+- >*adj.*公民的，国民的，国内的；平民的，民用的；文明的，有礼貌的；民法的（非刑法的），民事的；习俗规定的，历法规定的
+- adj
+	- civic 市的；公民的，市民的
+	- civilized 文明的；有礼貌的
+	- civilised 文明的
+	- civilian 平民的，民用的
+- adv
+	- civilly 谦恭地；依民法
+- n
+	- civilization 文明；文化
+	- civility 礼貌；礼仪；端庄
+	- civilisation（英）文明（等于civilization）
+	- civics 公民；公民学
+	- civilian 平民，百姓（区别于军、警）
+- v
+	- civilized 教化；使…文明；启发（civilize的过去分词）
+- vi/vt
+	- civilize 变得文明；使文明；教化；使开化
+	- civilise 变成文明社会（等于civilize）；教化；文明化；使开化
+	-

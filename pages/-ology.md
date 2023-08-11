@@ -1,0 +1,1 @@
+- 例如，biology（生物学）、psychology（心理学）、anthropology（人类学）。

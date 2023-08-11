@@ -1,0 +1,6 @@
+- Fragile（脆弱的）：表示易碎、脆弱的特性。
+- 例句：Be careful with the fragile glassware.
+- Juvenile（年轻的，幼稚的）：表示年轻或幼稚的特性。
+- 例句：His juvenile behavior was inappropriate for someone his age.
+- Virile（有男子气概的）：表示有男性特征或男子气概的特性。
+- 例句：He maintained a strong and virile physique through regular exercise.

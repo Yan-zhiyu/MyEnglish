@@ -1,0 +1,8 @@
+- >表示“关于、在……方面”，也可以解释为“因……而陷入……的境地或状态”。"over"通常用在形容词、副词、动词的后面，表示因...而产生某种状态或情感。
+- 例如 “fall into rapture over (something)”意思是“因某事物而陶醉，非常着迷”。
+- 除了"over"以外，还可以使用其他介词来表示对某个事物的狂热和着迷。一些常用的介词包括：
+	- "about"：如 "He is passionate about classical music" （他对古典音乐很有热情）。
+	- "for"：如 "She has a great love for jazz music"（她非常热爱爵士音乐）。
+	- "with"：如 "He is fascinated with rock music" （他对摇滚音乐非常着迷）。
+	- "on"：如 "She is hooked on pop music" （她对流行音乐上了瘾）。
+-

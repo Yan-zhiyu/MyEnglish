@@ -1,0 +1,10 @@
+- 词组
+	- in one's view
+	- a view of life
+	- come into view
+	- a sea view
+	- **view evidence 审核证据**
+	- view...as sth 把...视为，以...看待
+- viewpoint n观点，看法，视角，角度
+	- from a different viewpoint
+	- a political viewpoint 政治观点

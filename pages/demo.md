@@ -1,0 +1,13 @@
+- adv.
+	- democratic 民主地；民主主义地
+- n.
+	- democracy 民主，民主主义；民主政治
+	- demo 演示；样本唱片；示威；民主党员
+	- democrat 民主党人；民主主义者；民主政体论者
+	- democratization 民主化
+- vi.
+	- democratize 民主化；大众化
+	- democratise 民主化（等于democratize）
+- vt.
+	- democratize 使民主化；使大众化
+	- democratize 使大众化（等于democratize）

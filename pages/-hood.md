@@ -1,0 +1,1 @@
+- 例如，childhood（童年）、neighborhood（社区）、brotherhood（兄弟关系）。

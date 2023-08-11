@@ -1,0 +1,10 @@
+- 表示 "状态、性质或品质"
+- Democracy（民主）：表示一种政治体制，其中权力属于人民。
+	- 例句：Many countries around the world strive for democracy.
+- Privacy（隐私）：表示个人信息或行为的保密和保护。
+	- 例句：He values his privacy and doesn't like to share personal details.
+- Efficiency（效率）：表示完成任务或工作的快速和高效能力。
+	- 例句：The new system improved the efficiency of the production process.
+- Policy（政策）：表示组织、机构或政府采取的规定或决策。
+	- 例句：The government implemented new policies to stimulate economic growth.
+-

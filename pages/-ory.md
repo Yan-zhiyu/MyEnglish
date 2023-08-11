@@ -1,0 +1,10 @@
+- judicatory 司法的；判决的
+- regulatory 管理的，控制的，监管的
+- Introductory（介绍的，引言的）：与介绍或引言相关的特性。
+	- 例句：The professor gave an introductory lecture on the topic.
+- Explanatory（解释的，说明的）：与解释或说明相关的特性。
+	- 例句：The book provides clear and explanatory examples.
+- Observatory（观察的，天文台的）：与观察或天文台相关的特性。
+	- 例句：The astronomer spent hours at the observatory observing the stars.
+- Compulsory（强制性的，必须做的）：必需的或强制要求的特性。
+	- 例句：Physical education is a compulsory subject in many schools.

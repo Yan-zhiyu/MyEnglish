@@ -1,0 +1,15 @@
+- >*n.*经济；节省，简练；经济舱
+  *adj.*经济实惠的
+- adj
+	- economic 经济的，经济上的；经济学的
+	- economical 经济的；节约的；合算的
+- adv
+	- economically 经济地；在经济上；节俭地
+- n
+	- economics 经济学；国家的经济状况
+	- economist 经济学者；节俭的人
+	- econometrics 计量经济学
+	- economizer 节约装置；节约者；经济家
+- vi/vt
+	- economize 节约，节省；有效地利用
+	- economise 节约，节省

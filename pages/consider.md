@@ -1,0 +1,9 @@
+- adj.
+	- considerable 相当大的；重要的，值得考虑的
+	- considered 经过深思熟虑的；被尊重的
+- n.
+	- consideration *n.*考虑，斟酌；考虑因素；体贴，关心；报酬，酬金；
+- vi.
+	- consider 考虑；认为；细想
+- vt.
+	- consider 考虑；认为；考虑到；细想

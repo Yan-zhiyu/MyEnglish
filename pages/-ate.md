@@ -1,0 +1,18 @@
+- >表示动作或状态：这些词所表达的含义通常涉及某种动作、行为或状态。
+- differentiate *v.*使不同；求……的微分；区别
+	- 第三人称单数 differentiates
+	- 现在分词 differentiating
+	- 过去式 differentiated
+	- 过去分词 differentiated
+- indicate vt.表明，显示 指出，指向 代表
+- investigate vi vt 调查，研究
+- cultivate vt 开垦 种植 培养
+- activate 激活
+- communicate（沟通）
+- accelerate（加速）
+-
+- 特殊情况：
+	- corporate
+		- *adj.*公司的；法人的；共同的，全体的
+		- *n.*公司，集团
+-

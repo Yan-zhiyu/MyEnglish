@@ -1,0 +1,8 @@
+- >-ness 表示“...的状态、性质、品质”。名词
+- happiness（幸福）
+- kindness（友善）
+- distinctiveness 特殊性，独特性
+- decisiveness 决断力，果断
+- darkness（黑暗）
+- 女士（actress）
+- 公主（princess）

@@ -1,0 +1,10 @@
+- > 做状语成分，==介词放句式，In开头==
+- 状语从句，when I was young, I could play football.
+- 介词结构，On Sunday morning, we go to school.
+- 分词结构，Finishing my home work, I start to watch TV.
+- 独立主格结构 He finishing his homework, I start to watch TV.
+	- 原因状语从句，because
+- 副词 Surprisingly, he is still alive.
+- 例句：
+	- In a workplace that’s fundamentally indifferent to your life and its meaning, office speak can help you figure out how you relate to your work—and how your work defines who you are.
+-

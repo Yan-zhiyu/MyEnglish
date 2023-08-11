@@ -1,0 +1,8 @@
+- subscribe
+	- subscriber
+	- subscription
+- describe
+	- description
+- prescription
+- manuscript
+-

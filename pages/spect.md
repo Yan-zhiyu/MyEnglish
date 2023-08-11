@@ -1,0 +1,6 @@
+- >spect-看
+- prospect 前景，景色；前途，展望
+	- pro-前 + -spect-看 → 向前看到的是前景和前途,也有景色
+- perspective 透视画法，透视图；远景，前途；观点，看法
+	- per-完全,贯穿 + -spect-看 + -ive名词词尾
+-

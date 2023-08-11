@@ -1,0 +1,1 @@
+- 例如，freedom（自由）、kingdom（王国）、wisdom（智慧）。

@@ -1,0 +1,12 @@
+- adj.
+	- energetic 精力充沛的；积极的；有力的
+	- **enervate 衰弱的；无力的**
+- adv.
+	- energetically 积极地；精力充沛地
+- vi.
+	- energize 活动；用力
+- vt.
+	- energize 激励；使活跃；供给…能量
+	- **enervate** 使衰弱；使失去活力
+	- energise 供给…能量；使精力充沛（等于energize）
+-

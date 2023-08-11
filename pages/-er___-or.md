@@ -1,0 +1,16 @@
+- >正常来说是名词，少数动词
+- 名词
+	- indicator
+	- researcher 研究人员
+	- teacher（教师）
+	- actor（演员）
+	- computer（计算机）
+	- 作家（writer）
+	- 导演（director）
+	- baker（面包师傅）
+	- doctor（医生）
+	- teacher（老师）。
+- 动词
+	- differ vi 不同于；意见有分歧
+	- render *v.*使成为，使处于某种状态；给予，提供；演唱；翻译；绘制*n.*底灰，底泥；
+	-

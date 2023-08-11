@@ -1,0 +1,9 @@
+- >表示“...的过程、状态或结果”。
+- enjoyment（享受）
+- appointment（约定）
+- achievement（成就）
+- development（发展）
+- movement（运动）
+- judgement 意见
+- sentiment *n.*观点，看法，情绪；多愁善感，伤感情绪
+-

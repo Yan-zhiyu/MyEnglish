@@ -1,0 +1,3 @@
+- >表示抽象名词
+- dependence（依赖性；上瘾）
+- importance（重要性）

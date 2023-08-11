@@ -1,0 +1,25 @@
+- >n 位置，地方 座位 名次 身份
+  vt 放置 以某种态度对待 下指示
+- adj
+	- placed 名列前茅的
+	- placeable 可被确定位置的；可被确定年代的；可被安置的
+	- misplaced 给错
+- n.
+	- placement 布置；定位球；人员配置
+		- job placement
+	- replacement 替换；替换物
+		- the replacement cycle 更换周期
+		- a replacement for sth ...的替换物
+	- placer 冲积矿；放置者
+- v.
+	- placed 放置（place的过去分词形式）
+	- displace 取代；使离开
+	- replace [[替代或取代]]
+- 词组
+	- a place for lunch
+	- change places
+	- place emphasis on your career 把重点放在你的事业上
+	- place an order
+	- **take place 发生，进行**
+	- **take one's place 代替，取代**
+-

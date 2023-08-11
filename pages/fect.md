@@ -1,0 +1,27 @@
+- >词根：做，同 factory 同源
+- affect (ad-)  去 做 去做某事，从而影响某事 v. 影响
+	- *v.*影响；（疾病）侵袭，感染；（在感情上）深深打动，震撼；<正式> 假装，佯装
+	- *n.*（尤指影响行为或行动的）情感，感情
+	- The flood affected the city.
+- effect （ex-） 出 做 做出的某种影响 n. 影响；效果
+	- *n.*作用，影响；（刻意制造的）效果，印象；所有物，财产；生效，实行
+	- *v.*实现，引起
+	- My words had little effect on him.
+	- the effect of the medicine.
+- effort (ex-) 出 fort 力量 同force同源 使出的力气 n. 努力，尝试
+	- You should put more effort into your study.
+- impact
+- affect
+- effect
+	- effection *n.*产物（不常用）
+	- effective
+		- *adj.*产生预期结果的，有效的；实际的，事实上的；（法律、规则等）生效的，起作用的；给人深刻印象的
+		- *n.*实际可作战的士兵
+	- ineffective *adj.*无效果的，不起作用的；不能胜任的
+	- effectively *adv.*有效地；实际上
+	- effectiveness *n.*有效性，效力
+	-
+	- efficiency *n.*效率，效能；（机器的）功率
+	- efficient *adj.*生效的，效率高的；（人）有能力的，能胜任的
+-
+-

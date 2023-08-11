@@ -1,0 +1,7 @@
+- *n.*呼吁，恳求；上诉，申诉；吸引力，感染力；*v.*呼吁，恳求；上诉，申诉；
+- file an appeal 上诉
+- lose your appeal 失去魅力
+- an appeal for help 呼吁帮助
+- appeal to sb 吸引某人，引起某人的兴趣
+- appeal to sb 向某人呼吁，恳请某人
+-

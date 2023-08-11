@@ -1,0 +1,13 @@
+- abbr. 缩写
+	- 信誉；可靠性（credibility）
+- adj.
+	- creditable 可信的；声誉好的；值得称赞的
+	- credal 信条的；教义的；信经的
+- adv.
+	- credibly可靠地；可信地
+- n.
+	- credibility 可信性；确实性
+	- credibleness *n.*可信度，可靠性
+	- credence 信任；凭证；祭器台（等于credence table，credenza）
+	- cred 街头信誉（等于street cred）
+- "credibility" 更多地强调他人对可信度的认可和接受程度，而 "credibleness" 则更侧重于描述事物本身的可信程度。

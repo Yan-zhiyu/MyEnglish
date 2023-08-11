@@ -1,0 +1,8 @@
+- >进行中的；正在...的
+- marketing 市场营销
+	- a marketing campaign 促销活动
+	- a marketing plan 营销计划
+- running（跑步）
+- swimming（游泳）
+- singing（唱歌）
+- marketing 市场营销

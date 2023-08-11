@@ -1,0 +1,4 @@
+- intake
+- mistake
+- retake
+- stake

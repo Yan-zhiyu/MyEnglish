@@ -1,0 +1,15 @@
+- include
+- inclusive
+- exclude *vt.*（故意）不包括，把……排除在外；
+- exclusive *adj.*独有的，专用的；高档的，昂贵的； *n.*独家新闻，独家报道
+	- be exclusive to the rich
+	- an exclusive interview
+	- mutually exclusive 相互排斥的
+- exclusively adv. 仅仅，专门，排他地
+	- Lions live exclusively on meat. 狮子专靠肉食为主
+	- be designed exclusively for you 专为你设计的
+	- almost exclusively 几乎全部都是
+- conclusive
+- inconclusive
+- excessive
+-

@@ -1,0 +1,6 @@
+- *n.*审判，审理；试验，试用；*v.*测试，试验； *adj.*试验性的
+- on trial 在受审中
+- a criminal trial 刑事审判
+- a clinical trial 临床试验
+- a trial period 试用期
+- by trial and error 通过反复试验，通过不断模式
