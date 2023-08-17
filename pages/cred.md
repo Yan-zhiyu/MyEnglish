@@ -1,7 +1,9 @@
+- >"cred" 是一个常见的词根，表示 "相信" 或 "信任"。它常用于构建与可信性、信用、资历、怀疑和失去信誉相关的词汇
 - abbr. 缩写
 	- 信誉；可靠性（credibility）
 - adj.
 	- creditable 可信的；声誉好的；值得称赞的
+	- incredulous *adj.*怀疑的；不轻信的
 	- credal 信条的；教义的；信经的
 - adv.
 	- credibly可靠地；可信地
@@ -10,4 +12,8 @@
 	- credibleness *n.*可信度，可靠性
 	- credence 信任；凭证；祭器台（等于credence table，credenza）
 	- cred 街头信誉（等于street cred）
-- "credibility" 更多地强调他人对可信度的认可和接受程度，而 "credibleness" 则更侧重于描述事物本身的可信程度。
+	- credentials *n.*资格证明；资格证书，证件；
+	- "credibility" 更多地强调他人对可信度的认可和接受程度，而 "credibleness" 则更侧重于描述事物本身的可信程度。
+- discredit
+	- *vt.*不信；使……丢脸
+	- *n.*怀疑；无信用；名声的败坏

@@ -1,3 +1,6 @@
+title:: effect
+>"effect" 是一个常见的词根，表示 "完成" 或 "产生"。它常用于构建与效果、有效性、实现和影响相关的词汇，如 effect（效果）、effective（有效的）、ineffective（无效的）、effectuate（实现）和 affect（影响）。
+
 - effectively adv形式，表示以有效的方式或有效地做某事
 	- He communicated his ideas effectively to the team.（他有效地向团队传达了他的想法。）
 	- The new system is designed to work effectively in all situations.（新系统被设计成在各种情况下都能有效工作。）

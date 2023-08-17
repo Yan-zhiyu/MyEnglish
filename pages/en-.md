@@ -1,0 +1,7 @@
+- >这个前缀通常加在动词或形容词前面，以改变词的意义并指示动作的发生或性质的加强。
+- enable（使能够）：表示使某人或某物具备能力、条件或权利去做某事。例如，"technology enables us to communicate instantly"（技术使我们能够即时通讯）。
+- enrich（使丰富）：表示使某物变得更加丰富、有价值或充实。例如，"reading books can enrich your knowledge"（阅读书籍可以丰富你的知识）。
+- empower（赋予权力）：表示给予某人权力、授权或自主决策的能力。例如，"education empowers individuals to pursue their goals"（教育使个人有能力追求自己的目标）。
+- encourage（鼓励）：表示给予支持、激励或促使某人采取行动的动力。例如，"positive feedback can encourage students to excel"（积极的反馈可以鼓励学生取得优异成绩）。
+- enhance（提升）：表示增强、改善或提高某物的品质或性能。例如，"regular exercise can enhance physical fitness"（定期锻炼可以增强身体健康）。
+- 总结：表示 "使...变得" 或 "赋予某种性质"。它常用于构建与加强、赋予能力或提升相关的词汇，如 enable（使能够）、enrich（使丰富）、empower（赋予权力）、encourage（鼓励）和 enhance（提升）。

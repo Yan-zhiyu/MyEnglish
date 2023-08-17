@@ -2,7 +2,8 @@
 	- sensitive -sens-感觉 + -itive形容词词尾
 - sensitivity *n.*（对细节或质量的）感知，觉察；（对新情况的）灵敏度；敏感，易生气；
 - sentiment -sent 感觉，ment 抽象名词 情绪，观点
--
+- sensual（感官的）：表示与感官或享受感觉相关的。
+  例如，"She enjoys the sensual pleasures of fine dining"（她享受高级餐饮的感官享受）。
 - Sensation（感觉）：指感官对外部刺激的感知或知觉。它涉及到身体感官器官（例如眼睛、耳朵、皮肤等）接收到的感知信息。感觉可以是视觉、听觉、触觉、味觉、嗅觉等。感觉也可以用于描述某种强烈的感受或体验。
 	- 例句：The sensation of warmth spread through her body as she stepped into the sunlight.
 - Sensitivity（敏感性）：表示对刺激、变化或情感的反应程度或易受影响的程度。它可以是身体上的感官敏感性，也可以是情感上的敏感性。敏感性还可以表示对某个特定主题或问题的关注和反应程度。

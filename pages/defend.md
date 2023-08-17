@@ -1,3 +1,5 @@
+- >"defence" 词根源自拉丁语的 "defendere"，意为 "保护、防御"。通过衍生形成了与防御、辩护、防御性的和捍卫相关的单词，如 defence（防御、辩护）、defensive（防御的）、defender（防卫者、捍卫者）。与 "offence"（攻击、罪行）相对应，强调对抗或违法行为。
+-
 - adj.
 	- defensive 自卫的；防御用的
 	- defending 卫冕的；防御中的；防守型的

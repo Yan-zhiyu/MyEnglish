@@ -1,4 +1,4 @@
-- >*adj.*公民的，国民的，国内的；平民的，民用的；文明的，有礼貌的；民法的（非刑法的），民事的；习俗规定的，历法规定的
+- >"civil" 是一个常见的词根，表示 "公民" 或 "城市"。它常用于构建与文明、公民权利、平民和公务员相关的词汇，如 civilization（文明）、civilize（使文明）、civil rights（公民权利）、civilian（平民）和 civil servant（公务员）。
 - adj
 	- civic 市的；公民的，市民的
 	- civilized 文明的；有礼貌的

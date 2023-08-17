@@ -1,9 +1,16 @@
 - adj.
-	- considerable 相当大的；重要的，值得考虑的
+	- considerable 相当大的；重要的，值得考虑的，可观的
+		- 例如：a considerable amount of money（可观的金额）。
 	- considered 经过深思熟虑的；被尊重的
+	- considerate（体贴的）：意为 "体贴的"、"关心他人的" 或 "周到的"。
+		- 例如：a considerate friend（一个体贴的朋友）。
+	- inconsiderate（不体贴的）：前缀 "in-" 表示 "不" 或 "无"，加上 "considerate" 表示 "不体贴的"、"不关心他人的" 或 "不周到的"。
+		- 例如：an inconsiderate remark（一个不体贴的话语）。
 - n.
 	- consideration *n.*考虑，斟酌；考虑因素；体贴，关心；报酬，酬金；
+		- 例如：take into consideration（考虑）、give due consideration（充分考虑）。
 - vi.
 	- consider 考虑；认为；细想
+	- reconsider（重新考虑）：前缀 "re-" 表示 "再次" 或 "重复"，加上 "consider"，构成 "重新考虑" 的意思。例如：reconsider a decision（重新考虑一个决定）。
 - vt.
 	- consider 考虑；认为；考虑到；细想

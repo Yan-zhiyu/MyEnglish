@@ -5,4 +5,9 @@
 - running（跑步）
 - swimming（游泳）
 - singing（唱歌）
-- marketing 市场营销
+-
+- 其他
+	- surrounding
+		- *adj.*周围的，附近的
+		- *n.*周围环境（surroundings）
+		- *v.*围绕，环绕；包围，围住；与……紧密相连（或相关）（surround 的现在分词形式）

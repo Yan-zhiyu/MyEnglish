@@ -1,13 +1,21 @@
+- >"-cern" 是一个拉丁词根，来源于拉丁词 "cernere"，意思是 "分开"、"辨别" 或 "注意到"。
 - concern
 	- *n.*担心，忧虑；使人担忧的事物；关心，关爱；重要的事物，关心的事；（某人）负责的事，涉及的事；公司，企业；<非正式>复杂的物体
 	- *v.*有关，关于；涉及，影响；使忧虑，使担心
+	- 例如：show concern for others（关心他人）。
 - concerned
 	- *adj.*相关的， 关于（某个主题）的；担心的，焦急的；关注的，感兴趣的；关心的，挂念的
 	- *v.*有关，关于；涉及，影响；使忧虑，使担心（concern 的过去式和过去分词形式）
+	- 例如：be concerned about someone's well-being（担心某人的幸福）。
 - concernedly
 	- *adv.*担心地；关心公众事务地
 - discern dis-分离 + -cern-判断,决定
 	- *v.*（艰难地或努力地）看出，觉察出；了解，认识
 	- discern the truth
 	- discern a difference 觉察出差别
+	- 例如：discern between right and wrong（辨别是非）。
+- ascertain（确定）：表示 "确切知道" 或 "确定"。
+	- 例如：ascertain the truth（确定事实真相）。
+- disconcert（使困惑）：意为 "使困惑"、"使不安" 或 "使不适"。
+	- 例如：be disconcerted by unexpected news（因意外消息感到困惑）。
 -

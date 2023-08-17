@@ -1,1 +1,2 @@
+- >来自希腊语，表示“...科、...学”。
 - 例如，biology（生物学）、psychology（心理学）、anthropology（人类学）。
