@@ -1,0 +1,22 @@
+- >此外的，附加的，相关的信息
+- [[固定短语]]
+	- Tired of（厌倦）
+	- Afraid of（害怕）
+	- proud of 为...自豪
+	- take care of（照顾）
+	- make use of 使用，利用（以谋私利等）
+	- cognizant of（意识到）
+	- Possibility of（可能性）
+	- knowledge of（知识）
+	- in case of sth 如果，假使
+	- in view of sth 鉴于……
+	- prevalence of（普遍性）
+	- a majority of ...的大多数
+	- take advantage of（利用）
+	- on behalf of sb 代表某人，代表某人利益
+	- a succession of 连续不断的，一个接一个的
+	- Foster a sense of（培养...的意识）
+	- Encompass a wide range of（包含广泛的...）
+	-
+	-
+	- be of importance 非常重要

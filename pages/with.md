@@ -1,0 +1,20 @@
+- **[[固定短语]]**
+	- with ease（轻松地）
+	- with caution（小心地）
+	- with pleasure（乐意地）
+	-
+	- angry with（对...生气）
+	- familiar with（熟悉）
+	- content with（满足于）
+	- keep up with 齐步并进，并驾齐驱；熟悉，了解（消息、形势等） 继续支付，继续做
+	- consistent with（与...一致）
+	- associate...with... 把...和...联系起来
+	- collaborate with（与...合作）
+	- relationship with（与...的关系）
+	- compare A with B 将A和B作比较
+	- in accordance with（根据）
+	- preoccupation with（专注于）
+	- be comparable with 与…相当，类似于
+	- be (not) concerned with 对...感兴趣的，对...关心的
+	- sustain a relationship with（维持与...的关系）
+	- engage in conversation with（与...进行对话）

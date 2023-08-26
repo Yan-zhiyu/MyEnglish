@@ -1,0 +1,4 @@
+- [[固定短语]]
+	- think about  思考
+	- debate about sth 关于...的辩论
+	- be concerned about 对...担心的，对...关心的

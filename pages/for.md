@@ -28,3 +28,24 @@
 	- take/mistake···for··· ==把···当做理所当然==
 	- stand for/speak for 代表/代表···讲话
 -
+- [[固定短语]]
+	- for good（永久地）
+	- for instance 例如，比如说
+	-
+	- look for 寻找
+	- long for（渴望）
+	- apply for（申请）
+	- strive for  为……而努力；争取……；追求……
+	- desire for（渴望）
+	- demand for（需求）
+	- account for 是...的原因，（数量上、比例上）占
+	- potential for（潜力）
+	- advocate for 倡导人们，为……辩护或支持：支持或提倡某个想法、政策或行动
+	- imperative for 势在必行；对……来说是必要的
+	- preference for（偏好）
+	- implication for 对……的影响：指某个事件、行为或决策对某个人、组织、社会或环境所产生的影响或后果
+	- enthusiasm for（对...的热情）
+	- predilection for（偏爱）
+	- be eligible for sth 有资格...的，符合...条件的
+	- in exchange for sth 作为对...的交换
+	- Bear responsibility for（承担责任）

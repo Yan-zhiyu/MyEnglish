@@ -1,0 +1,13 @@
+- be inclined to do 倾向于做某事，很可能做
+- be susceptible to
+	- 1．易受影响的；易受感染的
+	- 2．易受攻击的；易受伤害的
+- be crucial to sth 对...极其重要的，对...关键的
+- be eligible for sth 有资格...的，符合...条件的
+- be punished for 惩罚
+- be eager/long for 渴望
+- be famous for / feel sorry for
+- be concerned about sth 对...担心的，对...感兴趣的
+-
+-
+- be the case 事实如此

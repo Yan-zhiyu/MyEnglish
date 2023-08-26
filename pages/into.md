@@ -1,0 +1,6 @@
+- [[固定短语]]
+	- research into 关于...的研究
+	- transform into 把...转换为
+	-
+	- falls into rapture 意思是“陷入狂喜、陶醉”
+	- take into account（考虑）

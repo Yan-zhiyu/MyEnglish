@@ -11,7 +11,11 @@
 - effort (ex-) 出 fort 力量 同force同源 使出的力气 n. 努力，尝试
 	- You should put more effort into your study.
 - impact
+	- *n.*撞击，冲击力；巨大影响，强大作用
+	- *v.*冲击，撞击；挤入，压紧；（对……）产生影响
 - affect
+	- *v.*影响；（疾病）侵袭，感染；（在感情上）深深打动，震撼；<正式> 假装，佯装
+	- *n.*（尤指影响行为或行动的）情感，感情
 - effect
 	- effection *n.*产物（不常用）
 	- effective

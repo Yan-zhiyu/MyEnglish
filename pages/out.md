@@ -1,0 +1,16 @@
+- [[固定短语]]
+	- put out 熄灭
+	- pass out 晕倒
+	- work out 健身，锻炼身体；解决，计划，思考；进展顺利；计算，算出
+	- look out小心
+	- turn out （以特定方式）发生，发展，证明是，结果是，制造，生产，培养出
+	- check out 退房
+	- make out 分辨
+	- carry out 实施（计划），兑换（诺言），完成（任务）
+	- figure out  理解，解决，算出
+	- knock out打晕
+	- as it turned out 正如事情结果那样，事实证明
+	- When word got out 当消息传出时
+	- take sth out of context 对...断章取义
+	-
+	- out of condition 身体状况不佳

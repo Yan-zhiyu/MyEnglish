@@ -48,6 +48,37 @@
 	- "Is expert in"通常用于描述某个领域、学科或行业方面的专业知识。例如："She is an expert in sociology"（她是社会学专家）。
 - 总体来说，"is an expert at"更注重具体行为活动，在某种操作上有精通的技能，而"is expert in"更注重学科、理论等方面的知识。所以，使用哪个短语取决于具体的语境和描述对象。
 -
--
--
--
+- [[固定短语]]
+	- carefully in 小心地在...
+	- engage in（从事）
+	- believe in 信任（某人），相信...有用，相信...的存在
+	- differ in sth 在...方面不同
+	- belief in（信仰）
+	- result in（导致）
+	- variation in 变化：指在某个范围内的不同程度或种类的变化。
+	- succeed in（成功）
+	- inherent in 固有的，内在的：指某个事物或概念中天然存在的特性或属性。
+	- resilience in  在……中的适应力
+	- proficient in（精通于）
+	- take part in（参加）
+	- intervene in（干涉）
+	- interested in 对...感兴趣
+	- participate in（参与）
+	- engagement in（参与）
+	- play a crucial role in（在...中发挥关键作用）
+	-
+	- in vain（徒劳）
+	- in short（简而言之）
+	- in stock 有库存的，有现货的
+	- in effect 事实上，实际上
+	- in general（一般来说）
+	- in practice 实际上，在实践中
+	- in advance 事先，提前
+	- in case of sth 如果，假使
+	- in view of sth 考虑到某事物，某事的视角
+		- view as 把...视为，以...看待
+	- in presence of 提示
+	- in this instance 在这种情况下
+	- in the course of 在...期间，在...的时候
+	- in the presence of 在...面前，有某人在场
+	-

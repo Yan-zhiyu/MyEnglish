@@ -1,0 +1,24 @@
+- a reason for ...的原因
+- a burden on sb 某人的负担
+	- Be a burden on your family.
+- a controversy over 关于...的争议
+- an approach to sth 对...的方法，对...的态度
+- a trend towards sth ...的趋势，...的倾向
+-
+- a majority of ...的大多数
+- a succession of 连续不断的，一个接一个的
+- a state of affairs 情况，形势，事态
+-
+- a failure to do 未做，未履行
+- a capacity to do 做某事的能力
+- a tendency to do 做某事的倾向
+-
+-
+- pose a threat 构成威胁
+- at a rate of sth 以...的速度，以...的比率
+- draw a conclusion 得出结论，下结论
+- have an impact on 对...有影响
+- make a difference to（对...有影响）
+- make a contribution to（为...作出贡献）
+- have a clear conscience 问心无愧
+-

@@ -48,3 +48,8 @@
 		- 1. is good at
 		  2. is quick/slow at
 		  3. is skilled/proficient/excellent/excel/an expert at
+- [[固定短语]]
+	- at all（完全地）
+	- good at（擅长于）
+	- excel at（擅长）
+	- at present（目前）

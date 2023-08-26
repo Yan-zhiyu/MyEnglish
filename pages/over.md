@@ -6,3 +6,6 @@
 	- "with"：如 "He is fascinated with rock music" （他对摇滚音乐非常着迷）。
 	- "on"：如 "She is hooked on pop music" （她对流行音乐上了瘾）。
 -
+- [[固定短语]]
+	- prevail over（战胜）
+	- a controversy over 关于...的争议

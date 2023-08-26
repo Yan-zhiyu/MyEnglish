@@ -1,3 +1,55 @@
 - >前往&抵达
 - Is this the train for Beijing?·············不一定抵达
   Is this the train to Beijing?···············要抵达的
+-
+- [[固定短语]]
+	- talk to（与...交谈）
+	- turn to 向...求助，转向，改用
+	- seek to 试图做某事，设法做某事
+	- yield to 向...屈服，向...让步
+	- admit to 承认罪行、错误等
+	- strive to 努力做某事
+	- apply to 向...申请（工作、学校、许可等），对...适用
+	- Listen to（倾听）
+	- owing to 因为，由于
+	- averse to（厌恶）
+	- barrier to（阻碍）
+	- switch to 转变为，改为
+	- pivotal to（关键的）
+	- access to 接近，进入，有权使用，取得的方法
+		- have access to（有权访问）
+	- appeal to sb 向某人呼吁，恳请某人，吸引某人
+	- adhere to（坚持） 英/ədˈhɪə(r)/
+	- expose to 暴露于；使处于……的影响之下
+	- inclined to（倾向于）
+	- give rise to（引起）
+	- conform to（符合）
+	- devoted to（专注于）
+	- resistant to（抵抗）
+	- claim to do 声称要做某事
+	- attentive to（专注于）
+	- sensitive to（对...敏感）
+	- delegate to（委派给）
+	- be similar to（类似于）
+	- committed to（致力于）
+	- be subject to 受制于；遭受；易受影响
+	- a failure to do 未做，未履行
+	- threaten to do 威胁要...扬言要... （坏事）可能发生
+	- be meant to do 注定要做某事，应做某事
+	- commitment to（承诺）
+	- pay attention to（注意）
+	- be applicable to 适用于...的，适合...的
+	- inspire sb to do 激励某人做某事
+	- prompt sb to do 促使某人做某事
+	- compel sb to do 强迫某人做某事
+	- contribute to do（促成）
+	- be susceptible to
+		- 1．易受影响的；易受感染的
+		- 2．易受攻击的；易受伤害的
+	- feel obliged to do 感到必须做某事
+	- be comparable to 与...比较的，与...类似的
+	- be supposed to do 被要求干什么，理应做某事，应该......
+	- aspire to greatness（追求卓越）
+	- make a difference to（对...有影响）
+	- Provide assistance to（为...提供帮助）
+	- make a contribution to（为...作出贡献）
