@@ -62,11 +62,13 @@
 	- proficient in（精通于）
 	- take part in（参加）
 	- intervene in（干涉）
+	- a shift in sth 在...方面的转变
 	- interested in 对...感兴趣
 	- participate in（参与）
 	- engagement in（参与）
 	- play a crucial role in（在...中发挥关键作用）
 	-
+	- in turn 依次，轮流，逐个；相应地，转而
 	- in vain（徒劳）
 	- in short（简而言之）
 	- in stock 有库存的，有现货的
@@ -74,11 +76,13 @@
 	- in general（一般来说）
 	- in practice 实际上，在实践中
 	- in advance 事先，提前
+	- in any case 无论如何，不管怎样
 	- in case of sth 如果，假使
 	- in view of sth 考虑到某事物，某事的视角
 		- view as 把...视为，以...看待
 	- in presence of 提示
 	- in this instance 在这种情况下
+	- in the long term 从长远来看
 	- in the course of 在...期间，在...的时候
 	- in the presence of 在...面前，有某人在场
 	-

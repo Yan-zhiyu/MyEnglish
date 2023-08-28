@@ -43,6 +43,7 @@
 	- on the contrary 正相反，恰恰相反
 	- on condition that 如果，在...条件下
 	-
+	- move on 开始做（别的事），换话题
 	- effect on（对...的影响）
 	- reflect on（思考）
 	- agree on sth 同意某事，应允某事，约定某事

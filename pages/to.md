@@ -31,6 +31,7 @@
 	- sensitive to（对...敏感）
 	- delegate to（委派给）
 	- be similar to（类似于）
+	- supply sth to 向...供应，供给
 	- committed to（致力于）
 	- be subject to 受制于；遭受；易受影响
 	- a failure to do 未做，未履行
@@ -49,6 +50,8 @@
 	- feel obliged to do 感到必须做某事
 	- be comparable to 与...比较的，与...类似的
 	- be supposed to do 被要求干什么，理应做某事，应该......
+	- consider...to be sth认为...是
+		- consider...as sth 认为...是
 	- aspire to greatness（追求卓越）
 	- make a difference to（对...有影响）
 	- Provide assistance to（为...提供帮助）

@@ -3,4 +3,5 @@
 	- transform into 把...转换为
 	-
 	- falls into rapture 意思是“陷入狂喜、陶醉”
-	- take into account（考虑）
+	- take sth into account考虑到，顾及
+	- take sth into consideration 考虑到，顾及

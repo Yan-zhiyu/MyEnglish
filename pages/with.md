@@ -3,6 +3,7 @@
 	- with caution（小心地）
 	- with pleasure（乐意地）
 	-
+	- cope with
 	- angry with（对...生气）
 	- familiar with（熟悉）
 	- content with（满足于）

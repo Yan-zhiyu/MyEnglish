@@ -1,3 +1,7 @@
 - [[固定短语]]
 	- view as sth  把...视为，以...看待
+	- consider...as sth 任务...是
+		- consider...to be sth 认为...是
+		- take sth into consideration 考虑到，顾及
+	-
 	- as it turned out 正如事情结果那样，事实证明
