@@ -28,4 +28,5 @@
 	-
 	- abide by（遵守）
 	- bound by（受限于）
+	- judging by sth 依据...来判断
 	- intrigued by（对...感到好奇）

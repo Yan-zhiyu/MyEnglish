@@ -1,8 +1,10 @@
 - a reason for ...的原因
-- a burden on sb 某人的负担
-	- Be a burden on your family.
 - a controversy over 关于...的争议
 - a trend towards sth ...的趋势，...的倾向
+-
+- a policy on sth 关于...的政策
+- a burden on sb 某人的负担
+	- Be a burden on your family.
 -
 - a shift in sth 在...方面的转变
 -

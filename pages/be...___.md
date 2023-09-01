@@ -1,4 +1,5 @@
 - be similar to（类似于）
+- be crucial to sth 对...极其重要的，对...关键的
 - be subject to 受制于；遭受；易受影响
 - be meant to do 注定要做某事，应做某事
 - be inclined to do 倾向于做某事，很可能做
@@ -8,13 +9,16 @@
 - be crucial to sth 对...极其重要的，对...关键的
 - be applicable to 适用于...的，适合...的
 -
-- be punished for 惩罚
 - be eligible for sth 有资格...的，符合...条件的
-- be eager/long for 渴望
 - be famous for / feel sorry for
+- be punished for 惩罚
+- be eager/long for 渴望
+-
+- be different from 与...不同
 -
 - be concerned about sth 对...担心的，对...感兴趣的
 -
 - be the case 情况属实，事实如此
 -
 - consider...to be sth 认为...是
+- continues to be 依然是

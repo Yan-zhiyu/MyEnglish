@@ -74,6 +74,7 @@
 	- in stock 有库存的，有现货的
 	- in effect 事实上，实际上
 	- in general（一般来说）
+	- in favor of 赞同，支持
 	- in practice 实际上，在实践中
 	- in advance 事先，提前
 	- in any case 无论如何，不管怎样

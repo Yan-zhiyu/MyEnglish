@@ -10,6 +10,7 @@
 	- keep up with 齐步并进，并驾齐驱；熟悉，了解（消息、形势等） 继续支付，继续做
 	- consistent with（与...一致）
 	- associate...with... 把...和...联系起来
+	- interaction with 与...的相互影响
 	- collaborate with（与...合作）
 	- relationship with（与...的关系）
 	- compare A with B 将A和B作比较

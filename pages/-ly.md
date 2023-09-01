@@ -7,6 +7,6 @@
 - true truly
 - pretty *adv.*相当，颇；非常，很 *adj.*（尤指女孩）漂亮的，标致的；
 - fairly *adv.*相当地，颇；公平地，公正地；<旧>（用以强调）完全，简直；令人愉快地，让人喜欢地
-- largely 基本上，总体上 I largely only eat carrots.
+- ==largely== 基本上，总体上 I largely only eat carrots.
 - emotionally  *adv.*感情上；情绪上；令人激动地；情绪冲动地
 -

@@ -1,8 +1,10 @@
 - [[固定短语]]
+	- shift from...to... （情况、政策等）由...转变成...；（观点、态度）从...变成...
 	- differ from 与...相异，与...不同
 	- abstain from（避免）
+	- judging from sth 依据...来判断
+	- infer sth from sth 从...推断，从...推理
 	- stay away from 远离，不靠近
 	- be different from 与...不同
-	- infer sth from sth 从...推断，从...推理
-	- evoke a response from（引发...的反应）
 	- discourage sb from doing sth 打消某人做某事的念头
+	- evoke a response from（引发...的反应）

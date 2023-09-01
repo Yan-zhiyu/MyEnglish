@@ -32,8 +32,9 @@
 	- delegate to（委派给）
 	- be similar to（类似于）
 	- supply sth to 向...供应，供给
-	- committed to（致力于）
 	- be subject to 受制于；遭受；易受影响
+	- committed to（致力于）
+	- shift from...to... （情况、政策等）由...转变成...；（观点、态度）从...变成...
 	- a failure to do 未做，未履行
 	- threaten to do 威胁要...扬言要... （坏事）可能发生
 	- be meant to do 注定要做某事，应做某事
