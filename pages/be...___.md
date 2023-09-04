@@ -18,6 +18,8 @@
 -
 - be concerned about sth 对...担心的，对...感兴趣的
 -
+- be the limit 极其令人讨厌
+	- to be extremely annoying
 - be the case 情况属实，事实如此
 -
 - consider...to be sth 认为...是
