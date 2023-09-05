@@ -6,7 +6,7 @@
 - 著名的（famous）
 -
 - disastrous /dɪˈzɑːstrəs/ *adj.*灾难性的，使损失惨重的；极失败的，很糟的
-	- very bad, harmful or unsuccessful 极糟糕的；灾难性的；完全失败的
+	- very bad, harmful or unsuccessful 极糟糕的；灾难性的；完全失败的
 	- a disastrous harvest/fire/result
 	- Lowering interest rates could have disastrous consequences for the economy.
 -

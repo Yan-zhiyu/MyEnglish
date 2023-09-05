@@ -43,28 +43,51 @@
 	  >result in 导致，结果是
 	  in consequence 结果
 	  end in + 名/动名词 以……为结果；以……告终
-- "Is an expert at"和"is expert in"两者都表示某人在某一领域或某一技能上有专业的知识或经验
-	- "Is an expert at"通常用于描述专业技能、技术或某项特定任务。例如："He is an expert at playing the guitar"（他擅长弹吉他）。
-	- "Is expert in"通常用于描述某个领域、学科或行业方面的专业知识。例如："She is an expert in sociology"（她是社会学专家）。
-- 总体来说，"is an expert at"更注重具体行为活动，在某种操作上有精通的技能，而"is expert in"更注重学科、理论等方面的知识。所以，使用哪个短语取决于具体的语境和描述对象。
 -
 - [[固定短语]]
-	- carefully in 小心地在...
-	- engage in（从事）
-	- believe in 信任（某人），相信...有用，相信...的存在
-	- differ in sth 在...方面不同
-	- belief in（信仰）
-	- result in（导致）
-	- variation in 变化：指在某个范围内的不同程度或种类的变化。
-	- succeed in（成功）
-	- inherent in 固有的，内在的：指某个事物或概念中天然存在的特性或属性。
-	- resilience in  在……中的适应力
-	- proficient in（精通于）
-	- take part in（参加）
-	- intervene in（干涉）
+	- differ in 在...方面不同
+		- How they differ in composition?
+		- French and English differ in this respect.
+		- Different chimp groups differ in their way of communication.
+	- belief in 相信：对某种信仰、理念或观念的信任和坚持。
+		- His belief in himself helped him overcome the difficulties.
+		- The Greeks accepted belief in the immortality(/ˌɪmɔːˈtæləti/ *n.*不朽；不灭) of the soul.
 	- a shift in sth 在...方面的转变
+		- It also reflected a shift in popular culture.
+		- A shift in wing color and mate preference.
+		- I think it just takes a bit of a shift in mindset.
+	- believe in 信任（某人），相信...有用，相信...的存在
+		- They don't believe in marriage.
+		- Do you believe in a life hereafter?
+		  Do you believe in life after death ?
+	- engage in /ɪnˈɡeɪdʒ ɪn/ 参与，从事或引导某项活动或行为
+		- We never engage in irregularities(/ˌɪreɡjəˈlærəti/ *n.*[物]不规则行为).
+		- Even in prison, he continued to engage in criminal activities.
+	- carefully in 小心翼翼地在
+		- I replaced the cup carefully in the saucer(*n.*茶碟，茶托，碟状物).
+	- inherent in 固有的，内在的：指某个事物或概念中天然存在的特性或属性。
+		- Students themselves seem to understand the weaknesses(/ˈwi:knəsɪz/) inherent in the setup.
+		- Violence is inherent in our society.
+	- succeed in 成功；在……方面成功；顺利完成
+	- variation in 变化：指在某个范围内的不同程度或种类的变化。
+	- take part in 积极参与某事与其他人一起
+	  collapsed:: true
+		- I was quite sulky(/ˈsʌlki/ *adj.*生闷气的，愠怒的), so I didn't take part in much.
+	- resilience in /rɪˈzɪliəns/  在……中的适应力
+	  collapsed:: true
+		- It builds resilience in the face of adversity(/ədˈvɜːsəti/ *n.*逆境，厄运).
+	- proficient in 精通于
+	  collapsed:: true
+		- She is proficient in multiple(/ˈmʌltɪp(ə)l/) programming languages.
+	- intervene in 干涉，介入
+	  collapsed:: true
+		- You have no right ever to intervene in our internal affairs.
 	- interested in 对...感兴趣
-	- participate in（参与）
+	  collapsed:: true
+		- I'm not interested in sport.
+	- participate in 参加：加入某个活动、事件或组织，积极参与其中
+	  collapsed:: true
+		-
 	- engagement in（参与）
 	- play a crucial role in（在...中发挥关键作用）
 	-

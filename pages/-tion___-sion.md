@@ -1,6 +1,6 @@
 - >名词后缀，表示...的状态或过程
 - session 会话
-- distinction *n.*差别，区分；杰出，卓越；特点；荣誉 复数 distinctions
+- distinction *n.*差别，区分；杰出，卓越；特点；荣誉 复数 distinctions
 - publication
 - civilization 文明 文明国家 文明社会
 - information（信息）

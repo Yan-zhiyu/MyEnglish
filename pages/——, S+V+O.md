@@ -6,5 +6,5 @@
 	- 原因状语从句，because
 - 副词 Surprisingly, he is still alive.
 - 例句：
-	- In a workplace that’s fundamentally indifferent to your life and its meaning, office speak can help you figure out how you relate to your work—and how your work defines who you are.
+	- In a workplace that’s fundamentally indifferent to your life and its meaning, office speak can help you figure out how you relate to your work—and how your work defines who you are.
 -

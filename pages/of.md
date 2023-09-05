@@ -16,10 +16,13 @@
 	- possibility of（可能性）
 	- knowledge of（知识）
 	- prevalence of（普遍性）/ˈprevələns/
-	  collapsed:: true
-		- prevalence of disease  疾病的流行
+		- prevalence of disease 疾病的流行
 		- The Prevalence of Western Holidays 西方节日的流行
 	- a succession of 连续不断的，一个接一个的
 	- foster a sense of 培养...的意识
 	- take advantage of 充分利用（某事物）；欺骗（某人）
+	- the name of the game 某项活动的基本目标或目的
+		- Hard work is the name of the game if you want to succeed in business.
+		- In this industry, customer satisfaction is the name of the game.
 	- encompass a wide range of 包括范围广泛的
+	-
