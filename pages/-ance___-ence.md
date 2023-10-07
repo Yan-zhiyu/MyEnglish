@@ -1,3 +1,19 @@
-- >表示抽象名词
-- dependence（依赖性；上瘾）
-- importance（重要性）
+- >表示抽象名词，“....的状态、情况、性质”
+- balance 平衡
+- reliance n.依赖，依靠
+- importance 重要：表示某物的重要性或关键性。
+	- 例句：Time management is of utmost importance in our daily lives.
+- performance 表现：表示某人或某事在特定活动或任务中的表现。
+	- 例句：The athlete's performance in the competition was outstanding.
+- resistance（抵抗）：表示对某事物或力量的抵制或反抗。
+	- 例句：The bacteria developed a resistance to antibiotics over time.
+- acceptance（接受）：表示对某人、某事或某观念的接受或认可。
+	- 例句：Her speech received widespread acceptance among the audience.
+-
+- confidence *n.*自信，信心；信任，信赖；把握，肯定；保密，机密；秘密，知心话
+- dependence 依赖性；上瘾
+- correspondence n.信件，信函；通信；相似，关联
+-
+-
+- ency
+	- dependency n.依赖，瘾，附属国

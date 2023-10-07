@@ -1,12 +1,17 @@
-- 快速地（quickly）
-- 明显地（obviously）
-- 极其，无限地（infinitely）
 - civilly *adv.*谦恭地；依民法
+- genetically
+- emotionally  *adv.*感情上；情绪上；令人激动地；情绪冲动地
+- statistically 统计地，统计学上地
+-
+- true truly
+- fairly *adv.*相当地，颇；公平地，公正地；<旧>（用以强调）完全，简直；令人愉快地，让人喜欢地
+- quickly 快速地
+- ==largely== 基本上，总体上 I largely only eat carrots.
+- infinitely 极其，无限地
+- positively
+- obviously 明显地
 - consequently adv 结果，因此，所以
 - possible possibly
-- true truly
-- pretty *adv.*相当，颇；非常，很 *adj.*（尤指女孩）漂亮的，标致的；
-- fairly *adv.*相当地，颇；公平地，公正地；<旧>（用以强调）完全，简直；令人愉快地，让人喜欢地
-- ==largely== 基本上，总体上 I largely only eat carrots.
-- emotionally  *adv.*感情上；情绪上；令人激动地；情绪冲动地
 -
+- 其他副词
+	- pretty *adv.*相当，颇；非常，很 *adj.*（尤指女孩）漂亮的，标致的；

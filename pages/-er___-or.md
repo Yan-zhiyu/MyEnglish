@@ -1,16 +1,20 @@
 - >正常来说是名词，少数动词
 - 名词
-	- indicator
+	- baker n.面包师，糕点师；专用轻便烤箱；面包店（=baker's）
+	- writer n.（职业的）作家，作者；执笔者，撰写人；写字……的人；（计算机）记录器；
+	- holder n. 持有者，占有者；支托物；小农，小佃农
+	- teacher n.教师；导师
+	- provider  n. 供应者；养家者
+	- caregiver n.照料者，护理者；看护者；看护者，护理员（同carer）
+	- computer n.计算机；电脑；电子计算机
 	- researcher 研究人员
-	- teacher（教师）
-	- actor（演员）
-	- computer（计算机）
-	- 作家（writer）
-	- 导演（director）
-	- baker（面包师傅）
-	- doctor（医生）
-	- teacher（老师）。
+	-
+	- actor n.演员；像在演戏的人；（行动或过程）参与者
+	- doctor n.医生，大夫；诊所（the doctor）；博士；<美>牙医，兽医 (Dr)；博学的人；
+	- director n.导演；管理者，负责人；董事，理事
+	- investor  n. 投资者，投资机构
+	- indicator n.标志，迹象；方向灯，转向指示灯；指示器，显示器；指示剂；指示（物）种
 - 动词
 	- differ vi 不同于；意见有分歧
 	- render *v.*使成为，使处于某种状态；给予，提供；演唱；翻译；绘制*n.*底灰，底泥；
-	-
+	- consider v. 考虑，斟酌；认为，视为；体贴，顾及；细看，端详；探讨，讨论

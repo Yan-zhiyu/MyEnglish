@@ -5,3 +5,5 @@
 - encourage（鼓励）：表示给予支持、激励或促使某人采取行动的动力。例如，"positive feedback can encourage students to excel"（积极的反馈可以鼓励学生取得优异成绩）。
 - enhance（提升）：表示增强、改善或提高某物的品质或性能。例如，"regular exercise can enhance physical fitness"（定期锻炼可以增强身体健康）。
 - 总结：表示 "使...变得" 或 "赋予某种性质"。它常用于构建与加强、赋予能力或提升相关的词汇，如 enable（使能够）、enrich（使丰富）、empower（赋予权力）、encourage（鼓励）和 enhance（提升）。
+-
+- entail 涉及，牵涉，需要

@@ -1,0 +1,4 @@
+- correlation n. 相互关系，关联；相关量
+- correspondent n.（尤指从某一国家发回专题报道的）记者，通讯员；通信者，写信人
+	- correspondence n.信件，信函；通信；相似，关联
+-

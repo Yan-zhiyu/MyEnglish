@@ -6,13 +6,16 @@
 - 表示状态或特征：有时，"-ize/-ise" 可以表示将名词或形容词转化为动词，表示具有某种状态或特征。
   例如，"现代化"（modernize）、"民主化"（democratize）。
 -
-- realise（实现）
-- organise（组织）
-- recognise（认识到）
-- compromise（妥协）
-- advertise（广告）
-- exercise（锻炼）
-- authorise（授权）
-- supervise（监督）
-- emphasise（强调）
-- analyse（分析）
+- realise vt. 认识到，明白，实现
+- analyse v. 分析，细察；分解，化验；对……进行心理分析
+- exercise v. 运动，锻炼；运用，行使；使担忧，使烦恼；驯，遛
+- organise
+	- vi. 组织起来；组织工会
+	- vt. 组织（等于 organize）；有机化；给予生机
+- advertise v. 为……做广告，登广告；公布，征聘；宣扬；使变得显眼；<古>提醒……注意
+- authorise vt. 授权；批准；允许；委任（等于 authorize）
+- supervise v. 指导（某人）的工作；监督（任务，计划，活动）
+- recognise vt. 认出；承认，认可；识别
+- emphasise v. 强调，着重：使某事物显得更为重要或显著。
+- compromise v. 妥协，让步；危及，损害
+- democratize  使民主化，使大众化

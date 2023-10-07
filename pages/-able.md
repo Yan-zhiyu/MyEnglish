@@ -2,12 +2,15 @@
 - 表示可能性："-able" 可以表示某个动作或状态的可能性。例如，"可行的"（feasible）、"可燃的"（flammable）。
 - 能力或适应性："-able" 也可以表示某个物品、人或组织具有某种能力或适应某种条件。例如，"可信赖的"（reliable）、"可靠的"（dependable）。
 - 进行或经历的能力："-able" 还可以表示某个事物具有完成某个动作或经历某个过程的能力。例如，"可忍受的"（tolerable）、"可理解的"（understandable）。
-- comfortable（舒适的）
-- memorable（难忘的）
-- judicable 应受审判的；可被审判的
-- 可寻找的（findable）
-- 可见的（visible）
+-
+-
+- visible adj.看得见的；明显的，引人注目的；（进出口贸易）有形商品的；（物理）（光）可见的；现有的，可得到的
 - sensible
 	- *adj.*理智的，合理的； 朴素而实用的；<正式>可感觉到的，明显的
 	- *n.*可感觉到的东西
+- findable adj.可发现的
 - valuable *adj.*值钱的，贵重的；有益的，宝贵的；重要的，珍贵的；可估价的
+- judicable adj.应受审判的；可被审判的
+- incredible adj.不可思议的，难以置信的；惊人的，极大的，极多的；了不起的，极好的
+- memorable adj.难忘的，值得纪念的
+- comfortable adj.令人舒适的；感到舒服的，安逸的；自信的，

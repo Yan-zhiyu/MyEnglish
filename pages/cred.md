@@ -3,6 +3,8 @@
 	- 信誉；可靠性（credibility）
 - adj.
 	- creditable 可信的；声誉好的；值得称赞的
+	- credible adj. 可信的，可靠的；足够好的，有明显效果的；（因看似可能成功而）可接受的
+	- incredible adj. 不可思议的，难以置信的；惊人的，极大的，极多的；了不起的，极好的
 	- incredulous *adj.*怀疑的；不轻信的
 	- credal 信条的；教义的；信经的
 - adv.

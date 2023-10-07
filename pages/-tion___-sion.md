@@ -1,10 +1,13 @@
 - >名词后缀，表示...的状态或过程
+-
 - session 会话
+- decision（决定）
+- conversion（转换）
+-
+- emotion *n.*情感，情绪；激情，强烈的情感
 - distinction *n.*差别，区分；杰出，卓越；特点；荣誉 复数 distinctions
-- publication
 - civilization 文明 文明国家 文明社会
 - information（信息）
-- conversion（转换）
-- decision（决定）
-- emotion *n.*情感，情绪；激情，强烈的情感
+- concentration 全神贯注
+- publication
 -

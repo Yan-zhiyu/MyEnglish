@@ -1,4 +1,5 @@
 - >-ness 表示“...的状态、性质、品质”。名词
+- [[-cess]] 表示 "行动、过程或状态"
 - happiness（幸福）
 - kindness（友善）
 - distinctiveness 特殊性，独特性

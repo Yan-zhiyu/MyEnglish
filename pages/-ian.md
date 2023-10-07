@@ -1,1 +1,4 @@
-- 例如，musician（音乐家）、technician（技术专家）、librarian（图书管理员）。
+- librarian（图书管理员）
+- musician（音乐家）
+- technician（技术专家）
+- statistician 统计学家，统计员

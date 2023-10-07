@@ -1,0 +1,6 @@
+- civics 公民；公民学
+- genetics n.遗传学
+	- genetic adj. 遗传的；基因的；起源的
+- statistics n.统计数学 统计学
+- economics 经济学；国家的经济状况
+- econometrics 计量经济学

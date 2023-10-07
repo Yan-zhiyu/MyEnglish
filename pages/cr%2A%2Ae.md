@@ -7,6 +7,9 @@
 	- *v.*<美>把……划分成区
 - distract *v.*使分心，使转移注意力；<古>使困惑，使迷惑
 	- distraction *n.*使人分心的事物，干扰；分心的事物，干扰；消遣，娱乐；心烦意乱
+- democratic 民主地；民主主义地
+	- democratize v. 使民主化；普及，使大众化
 - demonstrate *v.*证明；示范，演示；表露；游行，示威
-- illustrate *v.*加插图于；说明，阐明；证明，证实
 -
+- illustrate *v.*加插图于；说明，阐明；证明，证实
+- credibility n. 可靠性，可信度

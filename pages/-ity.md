@@ -1,21 +1,23 @@
 - >名词，这个词缀通常表示某种“状态、质量或性质”。
-- humanity 人类；人道
-- infinity 无限；无穷大
+- reality 现实
 - civility *n.*礼貌；礼仪；端庄
-- equality（平等）
-- responsibility（责任）
-- reality（现实）
-- validity（有效性）
-- Simplicity（简单）
-- Publicity（公开）
-- Multiplicity（多样性）
-- Authenticity（真实性）
-- Elasticity（弹性）
-- Complexity（复杂性）
-- Felicity（幸福）
-- Fidelity（忠诚）
-- creativity *n.*创造力，独创性
-- community *n.*社区，社会；（由同国籍、同宗教等构成的）群体，界；
-- sensitivity *n.*（对细节或质量的）感知，觉察；（对新情况的）灵敏度；敏感，易生气；多愁善感；
+- felicity（幸福）
+- fidelity（忠诚）
 - quality *n.*质量，品质；优质，上乘；素质，品德；特征，特质；（语音）音质，音色；
+- infinity 无限；无穷大
+- validity 有效性
+- identity n. 身份，本体；个性，特性；同一性，一致；恒等运算，恒等式
+- equality 平等
+- publicity 公开
+- elasticity 弹性
+- humanity 人类；人道
+- authority
+- creativity *n.*创造力，独创性
+- simplicity 简单
+- sensitivity *n.*（对细节或质量的）感知，觉察；（对新情况的）灵敏度；敏感，易生气；多愁善感；
+- community *n.*社区，社会；（由同国籍、同宗教等构成的）群体，界；
+- complexity 复杂性
+- multiplicity 多样性
+- authenticity 真实性
+- responsibility 责任
 -
